@@ -6,6 +6,7 @@ const Home = () => {
       <Link href={"/dashboard"} scroll={true}>
         Go to Dashboard
       </Link>
+      <Link href={"/users"}>Go to Users</Link>
     </>
   );
 };
